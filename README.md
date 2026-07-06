@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/DipamMS0801/My_LeetCode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/DipamMS0801/My_LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Sliding Window
 |  |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/DipamMS0801/My_LeetCode/tree/master/0206-reverse-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/DipamMS0801/My_LeetCode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
