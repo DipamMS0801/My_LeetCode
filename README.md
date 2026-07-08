@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/DipamMS0801/My_LeetCode/tree/master/0371-sum-of-two-integers) |
+| [1025-divisor-game](https://github.com/DipamMS0801/My_LeetCode/tree/master/1025-divisor-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -30,4 +31,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/DipamMS0801/My_LeetCode/tree/master/0283-move-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/DipamMS0801/My_LeetCode/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/DipamMS0801/My_LeetCode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/DipamMS0801/My_LeetCode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
