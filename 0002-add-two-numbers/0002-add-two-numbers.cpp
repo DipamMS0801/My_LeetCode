@@ -11,21 +11,25 @@
 
 class Solution {
 
-    ListNode* Reverse(ListNode* head) {
-        ListNode* curr = head;
-        ListNode* fut = NULL;
-        ListNode* prev = NULL;
-        while (curr != NULL) {
-            fut = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = fut;
-        }
-        return prev;
-    }
+    //Code to reverse Linked list
+    // ListNode* Reverse(ListNode* head) {
+    //     ListNode* curr = head;
+    //     ListNode* fut = NULL;
+    //     ListNode* prev = NULL;
+    //     while (curr != NULL) {
+    //         fut = curr->next;
+    //         curr->next = prev;
+    //         prev = curr;
+    //         curr = fut;
+    //     }
+    //     return prev;
+    // }
 
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
+
+
+        // If there are leading zeros present we can use this 
         // while (l1 && l1->next && l1->val == 0) {
         //     ListNode* temp = l1;
         //     l1 = l1->next;
