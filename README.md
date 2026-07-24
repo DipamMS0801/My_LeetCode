@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DipamMS0801/My_LeetCode/tree/master/0002-add-two-numbers) |
 | [0371-sum-of-two-integers](https://github.com/DipamMS0801/My_LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1025-divisor-game](https://github.com/DipamMS0801/My_LeetCode/tree/master/1025-divisor-game) |
 ## Bit Manipulation
@@ -25,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DipamMS0801/My_LeetCode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/DipamMS0801/My_LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DipamMS0801/My_LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/DipamMS0801/My_LeetCode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DipamMS0801/My_LeetCode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/DipamMS0801/My_LeetCode/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
