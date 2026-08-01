@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DipamMS0801/My_LeetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/DipamMS0801/My_LeetCode/tree/master/0007-reverse-integer) |
 | [0292-nim-game](https://github.com/DipamMS0801/My_LeetCode/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/DipamMS0801/My_LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0445-add-two-numbers-ii](https://github.com/DipamMS0801/My_LeetCode/tree/master/0445-add-two-numbers-ii) |
