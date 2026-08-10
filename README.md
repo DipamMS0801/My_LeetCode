@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/DipamMS0801/My_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DipamMS0801/My_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/DipamMS0801/My_LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/DipamMS0801/My_LeetCode/tree/master/0739-daily-temperatures) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DipamMS0801/My_LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/DipamMS0801/My_LeetCode/tree/master/1929-concatenation-of-array) |
 | [3731-find-missing-elements](https://github.com/DipamMS0801/My_LeetCode/tree/master/3731-find-missing-elements) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/DipamMS0801/My_LeetCode/tree/master/0020-valid-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/DipamMS0801/My_LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0739-daily-temperatures](https://github.com/DipamMS0801/My_LeetCode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/DipamMS0801/My_LeetCode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DipamMS0801/My_LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Sorting
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/DipamMS0801/My_LeetCode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/DipamMS0801/My_LeetCode/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
