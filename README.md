@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/DipamMS0801/My_LeetCode/tree/master/0020-valid-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/DipamMS0801/My_LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0901-online-stock-span](https://github.com/DipamMS0801/My_LeetCode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DipamMS0801/My_LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Sorting
 |  |
@@ -144,4 +145,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DipamMS0801/My_LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/DipamMS0801/My_LeetCode/tree/master/0901-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/DipamMS0801/My_LeetCode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/DipamMS0801/My_LeetCode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
