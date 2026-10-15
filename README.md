@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/DipamMS0801/My_LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DipamMS0801/My_LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DipamMS0801/My_LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3046-split-the-array](https://github.com/DipamMS0801/My_LeetCode/tree/master/3046-split-the-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/DipamMS0801/My_LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/DipamMS0801/My_LeetCode/tree/master/3731-find-missing-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/DipamMS0801/My_LeetCode/tree/master/3925-concatenate-array-with-reverse) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/DipamMS0801/My_LeetCode/tree/master/0496-next-greater-element-i) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DipamMS0801/My_LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DipamMS0801/My_LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3046-split-the-array](https://github.com/DipamMS0801/My_LeetCode/tree/master/3046-split-the-array) |
 | [3731-find-missing-elements](https://github.com/DipamMS0801/My_LeetCode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -255,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DipamMS0801/My_LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Counting
+|  |
+| ------- |
+| [3046-split-the-array](https://github.com/DipamMS0801/My_LeetCode/tree/master/3046-split-the-array) |
 <!---LeetCode Topics End-->
