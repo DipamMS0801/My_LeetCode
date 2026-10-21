@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/DipamMS0801/My_LeetCode/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DipamMS0801/My_LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/DipamMS0801/My_LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Greedy
 |  |
 | ------- |
