@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/DipamMS0801/My_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/DipamMS0801/My_LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/DipamMS0801/My_LeetCode/tree/master/0739-daily-temperatures) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/DipamMS0801/My_LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DipamMS0801/My_LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DipamMS0801/My_LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DipamMS0801/My_LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/DipamMS0801/My_LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/DipamMS0801/My_LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/DipamMS0801/My_LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Linked List
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/DipamMS0801/My_LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2574-left-and-right-sum-differences](https://github.com/DipamMS0801/My_LeetCode/tree/master/2574-left-and-right-sum-differences) |
 ## Range Minimum/Maximum Query
 |  |
