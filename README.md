@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/DipamMS0801/My_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/DipamMS0801/My_LeetCode/tree/master/1025-divisor-game) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DipamMS0801/My_LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/DipamMS0801/My_LeetCode/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DipamMS0801/My_LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/DipamMS0801/My_LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/DipamMS0801/My_LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/DipamMS0801/My_LeetCode/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DipamMS0801/My_LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2409-count-days-spent-together](https://github.com/DipamMS0801/My_LeetCode/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/DipamMS0801/My_LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Greedy
 |  |
