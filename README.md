@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/DipamMS0801/My_LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/DipamMS0801/My_LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/DipamMS0801/My_LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/DipamMS0801/My_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/DipamMS0801/My_LeetCode/tree/master/0496-next-greater-element-i) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DipamMS0801/My_LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DipamMS0801/My_LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DipamMS0801/My_LeetCode/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/DipamMS0801/My_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DipamMS0801/My_LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2409-count-days-spent-together](https://github.com/DipamMS0801/My_LeetCode/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/DipamMS0801/My_LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/DipamMS0801/My_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [3046-split-the-array](https://github.com/DipamMS0801/My_LeetCode/tree/master/3046-split-the-array) |
 ## Union-Find
 |  |
@@ -305,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DipamMS0801/My_LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/DipamMS0801/My_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
