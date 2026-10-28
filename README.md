@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/DipamMS0801/My_LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/DipamMS0801/My_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/DipamMS0801/My_LeetCode/tree/master/0371-sum-of-two-integers) |
+| [2351-first-letter-to-appear-twice](https://github.com/DipamMS0801/My_LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DipamMS0801/My_LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Array
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/DipamMS0801/My_LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/DipamMS0801/My_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/DipamMS0801/My_LeetCode/tree/master/0496-next-greater-element-i) |
+| [2351-first-letter-to-appear-twice](https://github.com/DipamMS0801/My_LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DipamMS0801/My_LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DipamMS0801/My_LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/DipamMS0801/My_LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/DipamMS0801/My_LeetCode/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/DipamMS0801/My_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DipamMS0801/My_LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2351-first-letter-to-appear-twice](https://github.com/DipamMS0801/My_LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2409-count-days-spent-together](https://github.com/DipamMS0801/My_LeetCode/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/DipamMS0801/My_LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Greedy
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/DipamMS0801/My_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/DipamMS0801/My_LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [3046-split-the-array](https://github.com/DipamMS0801/My_LeetCode/tree/master/3046-split-the-array) |
 ## Union-Find
 |  |
