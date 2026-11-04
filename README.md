@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/DipamMS0801/My_LeetCode/tree/master/1025-divisor-game) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DipamMS0801/My_LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/DipamMS0801/My_LeetCode/tree/master/2409-count-days-spent-together) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/DipamMS0801/My_LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DipamMS0801/My_LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/DipamMS0801/My_LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/DipamMS0801/My_LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DipamMS0801/My_LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/DipamMS0801/My_LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3046-split-the-array](https://github.com/DipamMS0801/My_LeetCode/tree/master/3046-split-the-array) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/DipamMS0801/My_LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/DipamMS0801/My_LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/DipamMS0801/My_LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/DipamMS0801/My_LeetCode/tree/master/3731-find-missing-elements) |
