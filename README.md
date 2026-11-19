@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DipamMS0801/My_LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/DipamMS0801/My_LeetCode/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DipamMS0801/My_LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/DipamMS0801/My_LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/DipamMS0801/My_LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2574-left-and-right-sum-differences](https://github.com/DipamMS0801/My_LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/DipamMS0801/My_LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/DipamMS0801/My_LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/DipamMS0801/My_LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/DipamMS0801/My_LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/DipamMS0801/My_LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/DipamMS0801/My_LeetCode/tree/master/1929-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/DipamMS0801/My_LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3925-concatenate-array-with-reverse](https://github.com/DipamMS0801/My_LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
