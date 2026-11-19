@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/DipamMS0801/My_LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/DipamMS0801/My_LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/DipamMS0801/My_LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3783-mirror-distance-of-an-integer](https://github.com/DipamMS0801/My_LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
